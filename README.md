@@ -1,9 +1,5 @@
 🌟 OOPS in C++ — Unit-Wise Repository
 
-""🚀 Language" (https://img.shields.io/badge/Language-C%2B%2B-blue.svg)" (https://isocpp.org/)
-""🎓 Semester" (https://img.shields.io/badge/Semester-III-green.svg)" (https://github.com/)
-""📚 Units" (https://img.shields.io/badge/Units-I%20%E2%86%92%20III-orange.svg)" (https://github.com/)
-
 «✨ A dynamic collection of C++ programs organized unit-wise for the course Object Oriented Programming with C++.
 🔥 Each unit folder contains well-structured programs with comments, examples, and real-time applications.
 🎯 Designed to be easy to compile, test, and showcase as your coding portfolio.»
